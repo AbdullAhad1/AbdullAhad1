@@ -25,9 +25,6 @@ Most of my repos are experiments that turned into projects. Check them out if yo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AbdullAhad1&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=AbdullAhad1&icon=0&color=0)](https://visitcount.itsvg.in)
 
