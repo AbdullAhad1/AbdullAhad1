@@ -9,9 +9,6 @@ Hi, I'm Ahad 👋<br>AI & Software Engineering student focused on:<br>AI agents 
 ![](https://streak-stats.demolab.com/?user=AbdullAhad1&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbdullAhad1&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdullAhad1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
