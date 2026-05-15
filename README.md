@@ -24,8 +24,3 @@ Most of my repos are experiments that turned into projects. Check them out if yo
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
----
-[![](https://komarev.com/ghpvc/?username=AbdullAhad1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
