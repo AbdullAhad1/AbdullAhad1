@@ -1,5 +1,18 @@
-# 💫 About Me:
-Hi, I'm Ahad 👋<br>AI & Software Engineering student focused on:<br>AI agents and automation<br>Local/offline AI systems<br>LLM workflows with Ollama<br>Full-stack AI applications<br>Autonomous content pipelines<br>Currently building:<br>Hermes AI Agent<br>Persistent AI memory systems<br>AI-powered automation tools<br>Experimental local-first AI infrastructure<br>Tech Stack:<br>Python • JavaScript • Node.js • Ollama • VS Code • Git • Linux • APIs<br>Learning:<br><br>Multi-agent systems<br>RAG pipelines<br>AI orchestration frameworks<br>Cloud deployment<br>Embedded/local AI environments<br>Goal:<br>Build intelligent systems that can think, remember, automate, and operate independently.
+# 💫 About Me
+
+Hi, I'm Ahad. I build stuff that shouldn't work but does.
+
+Right now I'm deep into:
+- **DOOR** — a university portal that scrapes real data and works offline (FastAPI + mobile + Apple-styled UI)
+- **JARVIS** — not the movie one, but close enough. A desktop AI with persistent memory that actually remembers who you are
+- Running local LLMs on my Mac because cloud APIs get expensive and I don't fully trust them
+- Learning cybersecurity the hard way: CTFs, Kali Linux, eventually exploit dev
+
+I use **Python** for backends, **React/TypeScript** for frontends, and way too much shell scripting for everything else. I like Apple design but I build on Linux servers. Contradictory? Sure.
+
+Most of my repos are experiments that turned into projects. Check them out if you want to see what I'm actually doing instead of reading bullet points.
+
+**Reach me:** Discord `hyperabdullah`
 
 
 # 💻 Tech Stack:
