@@ -40,7 +40,7 @@ CLI online shop & inventory system with ANSI-styled terminal UI
 ### [deumemes](https://github.com/AbdullAhad1/deumemes) — PHP, MySQL
 Social meme platform — posts, likes, comments, follows, profiles
 
-![deumemes screenshot](assets/deumemes.png)
+![deumemes screenshot](assets/deumemes.png?v=2)
 
 ---
 
