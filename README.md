@@ -10,7 +10,7 @@ C++ Systems • PHP Backend • React Frontend • AI-Augmented Development
 
 # 🧠 About Me
 
-I'm a **23-year-old software builder** from Bangladesh, studying Computer Science at **Dong Eui University, Busan, South Korea**. I founded **Porishkar Bangladesh** — a civic-tech initiative focused on building practical digital tools for real people.
+I'm a **23-year-old software builder** from Bangladesh, studying Computer Science at **Dong Eui University, Busan, South Korea**. I build practical digital tools that solve real problems.
 
 I don't write perfect code on the first try. I write code that ships, then I make it better.
 
