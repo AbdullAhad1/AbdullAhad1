@@ -25,7 +25,7 @@ My workflow is AI-augmented — I coordinate multiple coding agents (Hermes, Cur
 ### [deu-bank](https://github.com/AbdullAhad1/deu-bank) — React, TypeScript, Tailwind
 Full-featured digital banking — biometric auth, live crypto, multi-currency, analytics, PWA
 
-![deu-bank screenshot](assets/deu-bank.png)
+![deu-bank screenshot](assets/deu-bank.png?v=2)
 
 ### [ghost-s1](https://github.com/AbdullAhad1/ghost-s1) — PHP, JavaScript, Ollama
 Cyberpunk local LLM chat interface with custom personality
