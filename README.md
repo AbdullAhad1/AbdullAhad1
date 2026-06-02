@@ -1,45 +1,105 @@
-# Hey, I'm Abdull Ahad Afrid
+# Hi, I'm **Abdull Ahad Afrid** 🇧🇩
 
-23 y/o software builder from Bangladesh, studying Computer Science at Dong Eui University (Busan). Founder of **Porishkar Bangladesh** — a civic-tech initiative. I break things until they work, then I ship them.
+## 🚀 Software Builder | CS Student | Civic-Tech Founder
+
+<h3 align="center">
+C++ Systems • PHP Backend • React Frontend • AI-Augmented Development
+</h3>
 
 ---
 
-## Currently Building
+# 🧠 About Me
+
+I'm a **23-year-old software builder** from Bangladesh, studying Computer Science at **Dong Eui University, Busan, South Korea**. I founded **Porishkar Bangladesh** — a civic-tech initiative focused on building practical digital tools for real people.
+
+I don't write perfect code on the first try. I write code that ships, then I make it better.
+
+> **"Build fast, break things, fix them, ship again."**
+
+My workflow is AI-augmented — I coordinate multiple coding agents (Hermes, Cursor, Kiro, Antygravity) to parallelize development and iterate faster.
+
+---
+
+# 🏆 What I've Built
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| **[deu-bank](https://github.com/AbdullAhad1/deu-bank)** | React, TypeScript, Tailwind | Full-featured digital banking platform — biometric auth, live crypto trading, multi-currency, analytics, open banking, PWA |
+| **[deu-bank](https://github.com/AbdullAhad1/deu-bank)** | React, TypeScript, Tailwind | Full-featured digital banking — biometric auth, live crypto, multi-currency, analytics, PWA |
 | **[ghost-s1](https://github.com/AbdullAhad1/ghost-s1)** | PHP, JavaScript, Ollama | Cyberpunk local LLM chat interface with custom personality |
 | **[oop-shop](https://github.com/AbdullAhad1/oop-shop)** | C++98 | CLI online shop & inventory system with ANSI-styled terminal UI |
-| **[deumemes](https://github.com/AbdullAhad1/deumemes)** | PHP, MySQL | Social meme platform — posts, likes, comments, follows |
+| **[deumemes](https://github.com/AbdullAhad1/deumemes)** | PHP, MySQL | Social meme platform — posts, likes, comments, follows, profiles |
+| **[snake-game](https://github.com/AbdullAhad1/snake-game)** | TypeScript | Classic snake game built with TS |
+| **[device-tracker](https://github.com/AbdullAhad1/device-tracker)** | JavaScript | Device tracking utility |
 
 ---
 
-## Tech I Actually Use
+# 🛠 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Languages & Core
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## Backend & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## AI & Agent Stack
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## Stats
+# 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullAhad1&show_icons=true&theme=dark&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbdullAhad1&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullAhad1&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullAhad1&theme=dark&hide_border=true" width="97%" />
+
+</div>
 
 ---
 
-## Find Me
+# 🌱 Currently Learning
 
-- **GitHub**: You're already here
-- **Porishkar Bangladesh**: Building civic tech for real people
+- **Agentic AI systems** — multi-agent orchestration, autonomous coding workflows
+- **C++ systems programming** — building CLI tools with OOP principles
+- **Financial tech** — personal finance automation, banking integrations
+- **Korean language** — living and studying in Busan
 
-> "I don't write perfect code. I write code that ships, then I make it better."
+---
+
+# 📫 Connect
+
+<div align="left">
+  <a href="https://github.com/AbdullAhad1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdullAhad1&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+</div>
 
