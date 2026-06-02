@@ -35,7 +35,7 @@ Cyberpunk local LLM chat interface with custom personality
 ### [oop-shop](https://github.com/AbdullAhad1/oop-shop) — C++98
 CLI online shop & inventory system with ANSI-styled terminal UI
 
-![oop-shop screenshot](assets/oop-shop.png)
+![oop-shop screenshot](assets/oop-shop.png?v=2)
 
 ### [deumemes](https://github.com/AbdullAhad1/deumemes) — PHP, MySQL
 Social meme platform — posts, likes, comments, follows, profiles
