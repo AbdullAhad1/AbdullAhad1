@@ -20,16 +20,27 @@ My workflow is AI-augmented — I coordinate multiple coding agents (Hermes, Cur
 
 ---
 
-# 🏆 What I've Built
+# 📸 Project Showcase
 
-| Project | Stack | What it does |
-|---------|-------|-------------|
-| **[deu-bank](https://github.com/AbdullAhad1/deu-bank)** | React, TypeScript, Tailwind | Full-featured digital banking — biometric auth, live crypto, multi-currency, analytics, PWA |
-| **[ghost-s1](https://github.com/AbdullAhad1/ghost-s1)** | PHP, JavaScript, Ollama | Cyberpunk local LLM chat interface with custom personality |
-| **[oop-shop](https://github.com/AbdullAhad1/oop-shop)** | C++98 | CLI online shop & inventory system with ANSI-styled terminal UI |
-| **[deumemes](https://github.com/AbdullAhad1/deumemes)** | PHP, MySQL | Social meme platform — posts, likes, comments, follows, profiles |
-| **[snake-game](https://github.com/AbdullAhad1/snake-game)** | TypeScript | Classic snake game built with TS |
-| **[device-tracker](https://github.com/AbdullAhad1/device-tracker)** | JavaScript | Device tracking utility |
+### [deu-bank](https://github.com/AbdullAhad1/deu-bank) — React, TypeScript, Tailwind
+Full-featured digital banking — biometric auth, live crypto, multi-currency, analytics, PWA
+
+![deu-bank screenshot](assets/deu-bank.png)
+
+### [ghost-s1](https://github.com/AbdullAhad1/ghost-s1) — PHP, JavaScript, Ollama
+Cyberpunk local LLM chat interface with custom personality
+
+![ghost-s1 screenshot](assets/ghost-s1.png)
+
+### [oop-shop](https://github.com/AbdullAhad1/oop-shop) — C++98
+CLI online shop & inventory system with ANSI-styled terminal UI
+
+![oop-shop screenshot](assets/oop-shop.png)
+
+### [deumemes](https://github.com/AbdullAhad1/deumemes) — PHP, MySQL
+Social meme platform — posts, likes, comments, follows, profiles
+
+![deumemes screenshot](assets/deumemes.png)
 
 ---
 
