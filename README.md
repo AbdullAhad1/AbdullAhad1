@@ -42,6 +42,11 @@ Social meme platform — posts, likes, comments, follows, profiles
 
 ![deumemes screenshot](assets/deumemes.png?v=2)
 
+### [snake-game](https://github.com/AbdullAhad1/snake-game) — JavaScript
+Classic Snake with score tracking, speed levels, and retro arcade styling
+
+![snake-game screenshot](assets/snake-game.png)
+
 ---
 
 # 🛠 Tech Stack
